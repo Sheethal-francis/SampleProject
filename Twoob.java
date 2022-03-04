@@ -6,6 +6,7 @@ TwoOb ob=new TwoOb(4,6);
 TwoOb ob1=new TwoOb(7,8);
 ob.add();
 System.out.println(p);
+System.out.println("latest changes");
 }
 public TwoOb(int a,int b)
 {
